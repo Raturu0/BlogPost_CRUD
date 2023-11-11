@@ -272,9 +272,9 @@ const CrudOne = () => {
             />
             <Outputan
               key={"1001"}
-              title={"Raturu "}
+              title={"Judul lain "}
               body={
-                "Raturu hobinya bermain game, mobel lejen. hero favorit iritel pernah jadi top jawa tengah iritel. infokan custom by one. Ini juga konten default"
+                "lorem lorem lorem lorem lorem bla"
               }
               image={
                 "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/04/05/windah-2273767905.jpg"
@@ -282,9 +282,9 @@ const CrudOne = () => {
             />
             <Outputan
               key={"1001"}
-              title={"Raturu "}
+              title={"Judul lagi "}
               body={
-                "Raturu hobinya bermain game, mobel lejen. hero favorit iritel pernah jadi top jawa tengah iritel. infokan custom by one. Ini juga konten default"
+                "Mau diisi deksripsi apa bang"
               }
               image={
                 "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/04/05/windah-2273767905.jpg"
