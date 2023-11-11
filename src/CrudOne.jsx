@@ -270,6 +270,26 @@ const CrudOne = () => {
                 "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/04/05/windah-2273767905.jpg"
               }
             />
+            <Outputan
+              key={"1001"}
+              title={"Raturu "}
+              body={
+                "Raturu hobinya bermain game, mobel lejen. hero favorit iritel pernah jadi top jawa tengah iritel. infokan custom by one. Ini juga konten default"
+              }
+              image={
+                "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/04/05/windah-2273767905.jpg"
+              }
+            />
+            <Outputan
+              key={"1001"}
+              title={"Raturu "}
+              body={
+                "Raturu hobinya bermain game, mobel lejen. hero favorit iritel pernah jadi top jawa tengah iritel. infokan custom by one. Ini juga konten default"
+              }
+              image={
+                "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/04/05/windah-2273767905.jpg"
+              }
+            />
             {blogs
               .map((blog) => (
                 <Outputan
