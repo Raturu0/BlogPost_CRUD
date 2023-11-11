@@ -250,7 +250,7 @@ const CrudOne = () => {
 
         <section id="BLOG">
           <div className=" h-full flex flex-wrap justify-center ">
-            {/* <Outputan
+            <Outputan
               key={"1000"}
               title={"Ahmad "}
               body={
@@ -269,7 +269,7 @@ const CrudOne = () => {
               image={
                 "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/04/05/windah-2273767905.jpg"
               }
-            /> */}
+            />
             {blogs
               .map((blog) => (
                 <Outputan
