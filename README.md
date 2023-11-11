@@ -11,7 +11,7 @@ This is will implementate CRUD use json place holder dummy API (local host)
 # BLOG POST 
 Demo Link : 
 <br>
-http://blog-post-cru-atomicdesign.vercel.app/
+https://blog-post-ahmad-crud.vercel.app/
 <br>
 <br>
 If you have some idea u can do pull request, thankyou :)
