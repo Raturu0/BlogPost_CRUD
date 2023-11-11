@@ -1,8 +1,20 @@
-# React + Vite
+# REACT + VITE
+<br>
+This repository currently under progress. 
+<br>
+Progress done = create, read, delete, update, style + responsive design
+<br>
+This is will implementate CRUD use json place holder dummy API (local host)
+<br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# BLOG POST 
+Demo Link : 
+<br>
+http://blog-post-cru-atomicdesign.vercel.app/
+<br>
+<br>
+If you have some idea u can do pull request, thankyou :)
+<br>
+You have to install json-server and running in your localhost first before running this repo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
